@@ -1,1 +1,1 @@
-http://127.0.0.1:5500/trabalhoads/trabalho.html
+https://baac28.github.io/VIDA-DE-BRUNO/
